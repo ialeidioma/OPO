@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1520450150 source:c:\users\ale\downloads\projects\coding\c++\opo\main.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<string>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"variables.h"
+	"game_start.h"
+
+1520512351 c:\users\ale\downloads\projects\coding\c++\opo\variables.h
+
+1520449858 c:\users\ale\downloads\projects\coding\c++\opo\game_start.h
+	"initialization.h"
+
+1520512636 c:\users\ale\downloads\projects\coding\c++\opo\initialization.h
+
